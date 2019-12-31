@@ -19,10 +19,10 @@ Software: SNAP Toolbox for image processing and QGIS to visualize and build maps
 
 #### Processing images (Steps)
 
-- Open SNAP Desktop and subset images according to 
-- Geometric Calibration
-- Radiometric Calibration
-- Speckle Reduction
+- Open SNAP Desktop and subset images according to scene start X:708;scene start Y:4248;scene end X:1912;scene end Y:1151
+- Radiometric Calibration (Menu RADAR -> Radiometric -> Calibrate)
+- Speckle Reduction (Menu Radar -> Multilook)
+- Geometric Calibration (RADAR -> Geometric -> Terrain Correction -> Range Dopler Terrain Correction with UTM/WGS 84 coordninates)
 - Histogram Analysis 
 - Creating a Threshold to Separate Water and Land (based on histogram analysis)
 - Band calc (255*(Sigma0_VHdB<[Value])
