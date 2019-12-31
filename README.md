@@ -31,6 +31,7 @@ Software: SNAP Toolbox for image processing and QGIS to visualize and build maps
 ### Results
 - 11 December 2019
 
+![Image of 2019/12/11] (https://github.com/DuarteAndre/RADAR_Sentinel1/blob/master/20191211_Water.png)
 
 - 23 December 2019
 
