@@ -1,4 +1,4 @@
-# RADAR_Sentinel1
+# RADAR Sentinel-1A/B
 ## Mondego flood monitoring with Sentinel-1 using Snap Toolbox and QGIS.
 ### Introduction
 Synthetic Aperture Radar (SAR) can observe the Earth's surface day and night, through most weather conditions, 
