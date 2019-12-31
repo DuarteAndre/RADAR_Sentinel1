@@ -38,3 +38,10 @@ Software: SNAP Toolbox for image processing and QGIS to visualize and build maps
 ### Conclusions
 
 ### References
+
+Fayne, J., Bolten, J., Lakshmi, V., & Ahamed, A. (2017). Optical and Physical Methods for Mapping Flooding with Satellite Imagery. In Remote Sensing of Hydrological Extremes (pp. 83–103). Springer, Cham. https://doi.org/10.1007/978-3-319-43744-6_5
+
+NASA ARSET (2017). Introduction to Synthetic Aperture Radar;Introducción al Radar de Apertura Sintética. Applied Remote Sensing Training. Available online: https://arset.gsfc.nasa.gov/. 
+
+Serco Italia SPA (2018). Flood Monitoring with Sentinel-1 Using S-1 Toolbox - January 2015, Malawi (version 1.2). Retrieved from RUS Lectures at https://rus-copernicus.eu/portal/the-rus-library/learn-by-yourself/
+
