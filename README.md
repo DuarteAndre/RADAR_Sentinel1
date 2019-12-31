@@ -21,8 +21,8 @@ Software: SNAP Toolbox for image processing and QGIS to visualize and build maps
 - Radiometric Calibration (Menu RADAR -> Radiometric -> Calibrate)
 - Speckle Reduction (Menu Radar -> Multilook)
 - Geometric Calibration (RADAR -> Geometric -> Terrain Correction -> Range Dopler Terrain Correction with UTM/WGS 84 coordinates)
-- Convert Sigma0 into dB by highlighting Sigma0_VH and left clicking5.A menu will pop up.
-- Histogram Analysis 
+- Convert Sigma0 into dB by highlighting Sigma0_VH and left clicking. A menu will pop up.
+- Histogram Analysis (important to find the best reclassification values)
 - Creating a Threshold to Separate Water and Land (based on histogram analysis)
 - Band calc (255*(Sigma0_VHdB<[Value])
 - Open QGIS and visualize the images.
